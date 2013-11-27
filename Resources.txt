@@ -1,0 +1,10 @@
+People:
+	Gary McGraw
+	Howard Schmidt
+	Bruce Schneier
+
+Books:
+	Software Security: Building Security In - Gary McGraw
+	Security Patterns in Practice: Designing Secure Architectures Using Software Patterns - Eduardo Fernandez-Buglioni
+
+Essays and Articles:
