@@ -4,6 +4,10 @@ People:
 	Bruce Schneier
 
 Books:
+	Start Here:
+		Security Engineering: A Guide to Building Dependable Distributed Systems - Ross J. Anderson
+		Free Online: http://www.cl.cam.ac.uk/~rja14/book.html
+
 	Software Security: Building Security In - Gary McGraw
 	Security Patterns in Practice: Designing Secure Architectures Using Software Patterns - Eduardo Fernandez-Buglioni
 
